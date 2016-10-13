@@ -3,5 +3,5 @@ createCanvas(800,800)
 }
 
 function draw() {
-  ellipse(50, 800, 50, 50 ) ;
+  ellipse(50, 50, 800, 50 ) ;
 }
